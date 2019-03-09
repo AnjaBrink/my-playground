@@ -1,0 +1,113 @@
+h1, h2{ /* SELEKTOR*/
+color: #7261A3; /*STYLERULES*/
+/* background-image: url("background.jpg"); */
+font-family: 'Indie Flower', cursive;
+font-weight: bolder;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+  color: #2A2E45;
+}
+
+
+body {
+  background-color: #C3D48F;
+  text-align: center;
+}
+
+
+a {
+color: #2978A0;
+text-decoration: none;
+}
+
+
+a:hover {
+  opacity: 0.5;
+  color: #004346;
+  }
+
+
+
+.card {
+  border: 2px solid black;
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 3px 3px 2px grey;
+}
+
+#banner {
+  background-image: url("https://picsum.photos/800/800/?image=159");
+  padding: 150px;
+  background-size: cover;
+
+}
+
+#banner h1 {
+color: black;
+font-size: 60px;
+}
+
+#banner p {
+  color: black;
+    opacity: 0.8;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+
+#footer {
+padding: 30px;
+background: black;
+color: lightgrey;
+}
+
+.fab {
+  font-size: 20px;
+}
+
+.btn-primary {
+  background-color: #ECFFB0;
+  color: black;
+}
+
+
+
+
+
+
+
+/*
+0= black
+255=white
+*/
+
+/*1.0 Transparenz*/
+
+/* ColorZilla= Color picker mit Pipette */
+/* coolors = Farbenharmonien lock->space Taste und es findet andere Farben dazu */
+
+/* =========== Fonts ================ */
+
+/* fontpair.co  Welche Schriften passen zusammen?
+googlefonts= customize kann ausgewählt werden
+fontfaceninja  font picker
+*/
+
+/* =========BOX-Model ===========*/
+
+/*Schatten sollen nicht herausstechen auf der Webseite
+Inspector-other color-Farben modifizieren */
+
+/* Keine .png oder .jpg files
+sondern font of icons
+www.fontawesome
+www.typeform
+
+Bootstrap:
+
+
+
+
+*/
